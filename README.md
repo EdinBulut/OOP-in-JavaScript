@@ -1,1 +1,1 @@
-# OOP-in-JavaScript
+OOP in JavaScript
